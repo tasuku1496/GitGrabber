@@ -1,0 +1,20 @@
+{
+  "name": "GitGrabber",
+  "version": "1.0",
+  "manifest_version": 3,
+  "description": "GitHubのIssueやPRのタイトルとURLを同時にコピーします",
+  "action": {
+    "default_title": "Copy URL",
+    "default_icon": {
+      "16": "icon.png"
+    }
+  },
+  "icons": {
+    "16": "icon.png"
+  },
+  "permissions": ["scripting", "tabs", "activeTab", "clipboardWrite"],
+  "host_permissions": ["https://*/*"],
+  "background": {
+    "service_worker": "background.js"
+  }
+}
