@@ -12,7 +12,7 @@
   "icons": {
     "16": "icon.png"
   },
-  "permissions": ["scripting", "tabs", "activeTab", "clipboardWrite"],
+  "permissions": ["scripting", "activeTab", "clipboardWrite"],
   "host_permissions": ["https://*/*"],
   "background": {
     "service_worker": "background.js"
