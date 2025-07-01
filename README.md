@@ -3,9 +3,8 @@
 <img width="320" src="https://github.com/user-attachments/assets/b22bbbda-8a02-4c16-a24d-649816d03017">
 
 
-
-
-
+### ‼️chromeウェブストアにて配布中です 是非ダウンロードしてみてください‼️
+https://chromewebstore.google.com/detail/gitgrabber/lilfmlgdbldmnhggdpkkbelfblnbbaoc?hl=ja
 
 ## プライバシーポリシー
 本プライバシーポリシーは、当拡張機能（以下「本サービス」といいます）がユーザーの情報をどのように取り扱うかを説明するものです。
